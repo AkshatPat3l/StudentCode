@@ -15,6 +15,7 @@ public class Student {
      * @param args the command line arguments
      */
    private String name;
+   private int MaxCourses;
    public Student(String givenName)
    {
    name=givenName;
